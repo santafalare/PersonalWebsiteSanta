@@ -20,3 +20,5 @@ In About me section, Contains my profile.
 In the projects section, shows the products I created.
 
 ## Contact
+
+you can contact me by email
